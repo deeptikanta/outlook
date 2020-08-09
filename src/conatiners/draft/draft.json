@@ -1,0 +1,14 @@
+[
+	{
+		"mId": "guid-1-spam",
+		"unread": false,
+		"subject" : "Please Revert ASAP.",
+		"content" : "Congratulations ! <u>Credit card<u> is being shipped to you today!"
+	},
+	{
+		"mId": "guid-2-spam",
+		"unread": false,
+		"subject" : "Hi how are you?",
+		"content" : "You have just won the New York official lottery. Please send us your address so that we may start the transfer."
+	}
+]
