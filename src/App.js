@@ -1,6 +1,6 @@
 import React from 'react';
 import {
-  BrowserRouter, Switch, Route,
+  HashRouter, Switch, Route,
 } from 'react-router-dom';
 import './App.css';
 import Home from './conatiners/home/home';
@@ -8,11 +8,11 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <BrowserRouter>
+        <HashRouter>
           <Switch>
             <Route exact={false} path="/" component={Home} key="AppLogin" />
           </Switch>
-        </BrowserRouter>
+        </HashRouter>
       </header>
     </div>
   );
