@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/outlook/static/css/main.eac6241f.chunk.css",
+    "main.js": "/outlook/static/js/main.8e1fd9d3.chunk.js",
+    "main.js.map": "/outlook/static/js/main.8e1fd9d3.chunk.js.map",
+    "runtime-main.js": "/outlook/static/js/runtime-main.eef05079.js",
+    "runtime-main.js.map": "/outlook/static/js/runtime-main.eef05079.js.map",
+    "static/js/2.991d0407.chunk.js": "/outlook/static/js/2.991d0407.chunk.js",
+    "static/js/2.991d0407.chunk.js.map": "/outlook/static/js/2.991d0407.chunk.js.map",
+    "index.html": "/outlook/index.html",
+    "precache-manifest.24363c94988f222d86d0eccc798c95ff.js": "/outlook/precache-manifest.24363c94988f222d86d0eccc798c95ff.js",
+    "service-worker.js": "/outlook/service-worker.js",
+    "static/css/main.eac6241f.chunk.css.map": "/outlook/static/css/main.eac6241f.chunk.css.map",
+    "static/js/2.991d0407.chunk.js.LICENSE.txt": "/outlook/static/js/2.991d0407.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eef05079.js",
+    "static/js/2.991d0407.chunk.js",
+    "static/css/main.eac6241f.chunk.css",
+    "static/js/main.8e1fd9d3.chunk.js"
+  ]
+}
