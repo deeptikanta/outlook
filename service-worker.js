@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/outlook/precache-manifest.24363c94988f222d86d0eccc798c95ff.js"
+  "/outlook/precache-manifest.311b5c39494abb1fc2f17bcef7bde50f.js"
 );
 
 self.addEventListener('message', (event) => {
